@@ -4,7 +4,7 @@
 
 ## Project goal:
 
-We set out to try and find if there is a correlation between different diets and the their cost.
+We set out to try and find where is cheapest to buy food in developing countries.
 
 ## Brief description of the dataset:
 
