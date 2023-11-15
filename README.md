@@ -24,8 +24,8 @@ Number of features: 18
 
 | Day | Activity |
 | --- | --- |
-| 10.11 F | database selection |
+| 10.11 F | Database selection |
 | 13.11 M | EDA |
-| 14.11 T | Data Cleaning |
-| 15.11 W | Data Transforming |
-| 16.11 TH | Analysis and visualizations |
+| 14.11 T | Data Cleaning & Data Transforming |
+| 15.11 W | Analysis and visualizations |
+| 16.11 TH | Storytelling & Presentation |
