@@ -4,7 +4,9 @@
 
 ## Project goal:
 
-We set out to try and find where is cheapest to buy food in developing countries.
+At DEVATA we are on a mission to use the power of data to provide insights on major world problems.
+
+Our goal is to help stakeholders understand where the needs are worldwide to provide a better focus to their decision-making, investments and support.
 
 ## Brief description of the dataset:
 
