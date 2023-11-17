@@ -368,7 +368,7 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run>1. Price trend per region by commodity category (1997 - 2017)</run>
+            <run>Price per region by commodity category (1997 - 2017)</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -447,6 +447,13 @@
       <simple-id uuid='{9A935A2B-0C19-43EC-A612-4157FCFC8F88}' />
     </worksheet>
     <worksheet name='2_Price trend per region by commodity category (1997 - 2017)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Price of commodities in Latin America (1997 - 2017)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
       <table>
         <view>
           <datasources>
@@ -540,7 +547,7 @@
     </worksheet>
   </worksheets>
   <windows source-height='30'>
-    <window class='worksheet' maximized='true' name='1_ Price trend per region by commodity category (1997 - 2017)'>
+    <window class='worksheet' name='1_ Price trend per region by commodity category (1997 - 2017)'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -579,7 +586,7 @@
       </viewpoint>
       <simple-id uuid='{E0C28D05-CA33-4E85-A9CA-BE234B0C9571}' />
     </window>
-    <window class='worksheet' name='2_Price trend per region by commodity category (1997 - 2017)'>
+    <window class='worksheet' maximized='true' name='2_Price trend per region by commodity category (1997 - 2017)'>
       <cards>
         <edge name='left'>
           <strip size='160'>
